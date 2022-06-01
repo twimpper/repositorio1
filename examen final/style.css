@@ -1,0 +1,29 @@
+style.css
+*{
+  margin: 0;
+  pedding: 0;
+  box-sizing: border-box;
+
+}
+
+body{
+  familia tipográfica: 'Tiro Devanagari Marathi', serif;
+}
+.contenedor{
+    width: 90%;
+    max-width: 1200px;
+    overflow: hidden;
+    margin:auto;
+    padding: 60px 0;
+
+    }
+header{
+  height: 100vh;
+  background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+  
+
+
+
+
+
+}
